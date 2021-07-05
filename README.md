@@ -6,7 +6,7 @@ ddddddddddddddddfadfsa
 <<<<<<< HEAD
 这是另一个分支
 =======
-ddddddddddddddddfadfsa
+dddddddddtuletule
 rrrrrrrrrrrrrr
 ssssssssss
 这是一个测试release
