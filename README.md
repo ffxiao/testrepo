@@ -6,8 +6,8 @@ ddddddddddddddddfadfsa
 <<<<<<< HEAD
 这是另一个分支
 =======
-ddddddddddddddddfadfsa
+dddddddddtuletule
 rrrrrrrrrrrrrr
 ssssssssss
-dddddddddd太难了
+这是一个测试release
 这是一个测试dev新分支
